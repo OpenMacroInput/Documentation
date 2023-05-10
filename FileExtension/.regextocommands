@@ -1,0 +1,9 @@
+
+### .regextocommands
+Allows you to define a regex that will trigger some actions if found.
+See: https://regexr.com/ for more information on Regex
+Example:
+```
+[Hh]ello♦debuglog Hello guys♦In 0.2s|debuglog How are you going? 
+
+```
