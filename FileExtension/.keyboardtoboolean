@@ -1,0 +1,11 @@
+FootLeftRelease + FootRightRelease ♦  FeetRelease
+```
+### .keyboardtoboolean
+This file allow you to name the keyboard key to a boolean value independently of the platform (Mac, Window, Linux, Android...) (The read of the keyboard work  only on Window for the moment)
+```
+Z♦MoveForward
+S♦MoveBackward
+Q♦MoveLeft
+D♦MoveRight
+
+```
