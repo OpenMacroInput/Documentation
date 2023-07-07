@@ -1,6 +1,9 @@
 
 
 # Write Digit and Read
+- Make a script code for all
+  - HC06 &| Serial To Write
+  - Read to HC06 &| Serial 
 
 - Arduino
   - Classic Uno
