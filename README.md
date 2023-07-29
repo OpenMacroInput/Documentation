@@ -10,9 +10,3 @@
 - GitHub: https://github.com/EloiStree/2020_03_11_UnityOMI
 - Realtime Board of the project: https://miro.com/app/board/o9J_lLuiMz8=/?share_link_id=650393115447
 
-
-
-A|B|C
--|-|-
-A|A|A
-A|A|A
